@@ -49,13 +49,12 @@ Para rodar o projeto localmente, siga os passos abaixo:
 1. **Pré-requisitos:**
      - Python 3.9 ou superior
      - Google Chrome instalado
-     - ChromeDriver compatível com a versão do Google Chrome, disponível no PATH ou na mesma pasta do script
 
 2. **Clone o repositório e acesse o diretório:**
 
      ```bash
-     git clone <URL_do_repositório>
-     cd <nome_do_repositório>
+     git clone https://github.com/jeffaugg/web-scraping-ans
+     cd web-scraping-ans
      ```
 
 3. **Crie e ative um ambiente virtual (opcional, mas recomendado):**
