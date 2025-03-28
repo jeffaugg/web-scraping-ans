@@ -4,7 +4,7 @@ services:
   pdf-downloader:
     build: .
     volumes:
-      - ./downloads:/app/downloaded_pdfs
+      - ./downloaded_pdfs:/app/downloaded_pdfs
     environment:
       - PYTHONUNBUFFERED=1
     restart: on-failure
